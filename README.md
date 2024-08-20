@@ -1,4 +1,4 @@
-# N-Queen Visualiser
+# N-Queens Visualiser
 
 The N-Queens puzzle involves placing N queens on an N×N chessboard so that no two queens threaten each other, meaning no two queens can share the same row, column, or diagonal.
 
@@ -18,7 +18,10 @@ Shows the number of iterations and backtracks in real-time
 ## Installation
 
 git clone https://github.com/guptagarima2301/n-queen-visualizer.git
+
 cd n-queen-visualizer
+
 npm install
+
 npm start
 
